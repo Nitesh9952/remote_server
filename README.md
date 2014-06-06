@@ -1,5 +1,5 @@
 This is a small JSON API build in Sinatra.
-This API can be used to get details running on the server.
+This API can be used to get details running processes on the server.
 
 **Set Up**:-
 
